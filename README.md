@@ -1,1 +1,1 @@
-# Dexp_GS150
+# android_device_dexp_gs150
