@@ -10,7 +10,7 @@ on init
     #mkdir /system/bin
     #mkdir /system/etc
     symlink /system/etc /etc
-    symlink /vendor/manifest.xml /system_root/system/manifest.xml
+    symlink /vendor/manifest.xml /system/manifest.xml
     symlink /sbin/keystore.mt6739.so /vendor/lib/hw/keystore.mt6739.so
     symlink /sbin/keystore.v2.trustkernel.so /vendor/lib/hw/keystore.v2.trustkernel.so
     symlink /sbin/gatekeeper.mt6739.so /vendor/lib/hw/gatekeeper.mt6739.so
