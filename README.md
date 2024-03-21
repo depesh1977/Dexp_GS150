@@ -1,23 +1,17 @@
-# android_device_dexp_gs150
+# TWRP device tree for DEXP GS150
 
-Анонс: 2019, февраль
-Сети: LTE Bands 1,3,7,20
-UMTS 900, 2100, GSM 900, 1800
-Интернет: LTE cat.4 150/50 Мбит/с
-HSDPA, HSUPA, EDGE
-Wi-Fi: b/g/n, 2.4 ГГц
-Экран: TFT, 4.95", 480x960, сенсорный, ёмкостный, мультитач
-ОС: Android 8.1 Oreo Go edition
-Железо: MediaTek MT6739WA, 1.28 ГГц, 4 x Cortex-A53, PowerVR GE8100
-Память: RAM 1 ГБ, ROM 8 ГБ, Micro-SD до 64 ГБ
-Аккумулятор: Li-Ion, 2000 мА·ч
-Масса: 149 г
-Размеры: 138 x 65.5 x 9.6 мм
-Фото: 5 МП, вспышка, автофокус, двойная 5+0,3 МП
-фронтальная: 2 МП
-Радио: +
-Bluetooth: v4.2, A2DP
-Навигация: GPS, ГЛОНАСС
-Sim-карты: 2, Micro-SIM + Nano-SIM
-Фонарик +
-Датчики: Акселерометр, Приближение, Освещённость, Сканер отпечатков, NFC
+## Device specification
+
+Basic   | Spec Sheet
+-------:|:------------------------
+CPU     | 4x Cortex-A53 1.28 ГГц
+CHIPSET | MediaTek MT6739WA
+GPU     | PowerVR GE8100
+Memory  | 1GB
+Shipped Android Version | 8.1
+Storage | 8GB
+Battery | Li-Po 2000 mAh
+Dimensions | 138 x 65.5 x 9.6 mm
+Display | 480 x 960 pixels, 4.95 ratio (149 ppi density)
+Rear Camera  | 5 MP
+Front Camera | 2 MP
