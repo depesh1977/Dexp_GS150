@@ -80,6 +80,7 @@ TARGET_USES_LOGD := true
 TW_NO_USB_STORAGE := false
 TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
+TARGET_USE_CUSTOM_LUN_FILE_PATH := "/config/usb_gadget/g1/functions/mass_storage.usb0//lun%d/file"
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_NO_SCREEN_BLANK := true
 BOARD_HAS_LARGE_FILESYSTEM := true
